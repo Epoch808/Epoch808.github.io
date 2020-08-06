@@ -7,7 +7,7 @@
 		
 		<div class="container">
     		<div class="blurb">
-        		<h1>Welcome to Epoch808 Staking Pool gor Cardano</h1>
+        		<h1>Welcome to Epoch808 Staking Pool for Cardano</h1>
 				<p></a></p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
